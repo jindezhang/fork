@@ -1,4 +1,4 @@
-#include "daemon.h" 
+#include "daemon_init.h" 
 
 int daemon_init(void)
 {

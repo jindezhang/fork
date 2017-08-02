@@ -27,7 +27,7 @@ void strpri(char *str)
 {
 	while(*str != '\0')
 	{
-		sleep(2);
+		sleep(1);
 		printf("%c", *str);
 		fflush(stdout);
 		str++;
